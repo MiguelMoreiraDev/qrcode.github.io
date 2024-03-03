@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://miguelmoreiradev.github.io/qrcode.github.io/)
 
 ## My process
 
@@ -67,8 +66,7 @@ I want to focus on the next projects:
 - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - This helped me on HTML
 - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - This helped me on CSS
 
-
 ## Author
 
 - Frontend Mentor - [@MiguelMoreiraDev](https://www.frontendmentor.io/profile/MiguelMoreiraDev)
-- Instagram - [@miguelrkt__](https://www.instagram.com/miguelrkt__)
+- Instagram - [@miguelrkt\_\_](https://www.instagram.com/miguelrkt__)
